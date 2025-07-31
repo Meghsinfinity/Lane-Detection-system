@@ -16,7 +16,6 @@ Before running the project, ensure the following are installed:
 
 1. *Clone the repository*
 ```
- bash
  git clone https://github.com/Meghsinfinity/Lane-Detection-system.git
 ```
  3. *Open the project*
