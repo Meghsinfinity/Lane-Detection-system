@@ -15,10 +15,11 @@ Before running the project, ensure the following are installed:
 ## ⚙ Setup and Installation
 
 1. *Clone the repository*
+```
  bash
- git clone https://github.com/Meghsinfinity/lane-detection-openCV.git
-
- 2. *Open the project*
+ git clone https://github.com/Meghsinfinity/Lane-Detection-system.git
+```
+ 3. *Open the project*
 
 --Launch VS Code
 
