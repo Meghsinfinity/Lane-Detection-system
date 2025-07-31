@@ -33,7 +33,7 @@ Before running the project, ensure the following are installed:
 source_code_ext.py
 ```
 ### Ensure that your working directory contains the input video/image file if required by the script.
---
+---
  ## License
  <br>
 This project is licensed under the MIT License.
