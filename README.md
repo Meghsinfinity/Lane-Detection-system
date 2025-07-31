@@ -30,7 +30,6 @@ Before running the project, ensure the following are installed:
 
 - **Execute the following command:**
 ```
-bash
 source_code_ext.py
 ```
 Ensure that your working directory contains the input video/image file if required by the script.
