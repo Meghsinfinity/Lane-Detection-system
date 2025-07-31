@@ -1,20 +1,12 @@
-🚗 Lane Detection using OpenCV
-This project implements a lane detection system using Python and OpenCV. It performs real-time or image-based detection of lane lines from road images using classical computer vision techniques like grayscale conversion, noise reduction, Canny edge detection, masking with region of interest, and Hough Transform for line detection.
+# Lane Detection using OpenCV
 
-📦 Requirements
-Ensure you have Python and OpenCV installed on your system.
+This project implements a **basic lane detection system** using Python and OpenCV. It detects lane lines on roads in a given image or video by applying techniques such as grayscale conversion, Gaussian blur, Canny edge detection, masking, and Hough Line Transform.
 
-Install OpenCV:
-bash
-pip install opencv-python
-▶️ How to Run
-Clone this repository:
+---
 
-bash
-git clone https://github.com/Meghsinfinity/lane-detection-opencv.git
-cd lane-detection-opencv
-Open the project in VS Code or any preferred editor.
+## 📋 Prerequisites
 
-Run the following command:
-bash
-python source_code_ext.py
+Before running the project, ensure the following are installed:
+
+- **Python 3.x**
+- **OpenCV**: Install using pip  
