@@ -28,7 +28,7 @@ Before running the project, ensure the following are installed:
 
 - **Open the terminal inside VS Code**
 
---Execute the following command:
+- **Execute the following command:**
 ```
 bash
 source_code_ext.py
