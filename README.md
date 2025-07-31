@@ -18,7 +18,7 @@ Before running the project, ensure the following are installed:
 ```
  git clone https://github.com/Meghsinfinity/Lane-Detection-system.git
 ```
- 3. *Open the project*
+ 2. *Open the project*
 
 - **Launch VS Code**
 
@@ -30,8 +30,7 @@ Before running the project, ensure the following are installed:
 
 --Execute the following command:
 ```
-bash
- source_code_ext.py
+bash source_code_ext.py
 ```
 Ensure that your working directory contains the input video/image file if required by the script.
 --
