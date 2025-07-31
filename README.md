@@ -20,16 +20,17 @@ Before running the project, ensure the following are installed:
 ```
  3. *Open the project*
 
---Launch VS Code
+- **Launch VS Code**
 
---Open the cloned folder in VS Code
+- **Open the cloned folder in VS Code**
 
 3. *Run the program*
 
---Open the terminal inside VS Code
+- **Open the terminal inside VS Code**
 
 --Execute the following command:
-```bash
+```
+bash
  source_code_ext.py
 ```
 Ensure that your working directory contains the input video/image file if required by the script.
