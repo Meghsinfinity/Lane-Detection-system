@@ -16,22 +16,22 @@ Before running the project, ensure the following are installed:
 
 1. *Clone the repository*
  bash
- git clone https://github.com/your-username/lane-detection-openCV.git
+ git clone https://github.com/Meghsinfinity/lane-detection-openCV.git
 
-# 2. Open the project
+ 2. *Open the project*
 
 --Launch VS Code
 
 --Open the cloned folder in VS Code
 
-# 3. Run the program
+3. *Run the program*
 
 --Open the terminal inside VS Code
 
 --Execute the following command:
-bash 
+```bash
  source_code_ext.py
-
+```
 Ensure that your working directory contains the input video/image file if required by the script.
 --
  ##License
